@@ -20,6 +20,6 @@ def data():
     return template('v6a.tpl',n=name, h=home,net=net,simi=simi,dagur=dagur,nam=nam)
     
 
-run(host='localhost', port=8090)
+run(host='localhost', port=os.environ.get('PORT'))
 
  
