@@ -11,7 +11,7 @@
     <input type="checkbox" name="nam" value="Gagnasöfn" > Gagnasöfn<br>
     <h2>Dagar</h2>
     <input type="radio" name="dagur" value="25.10.2018" > 25.10.2018<br>
-    <input type="radio" name="dagur" value="26.10.2018s" > 26.10.2018<br>
+    <input type="radio" name="dagur" value="26.10.2018" > 26.10.2018<br>
     <input type="radio" name="dagur" value="27.10.2018" > 27.10.2018<br>
 	<h2>Upplýsingar um notenda</h2>
 	Nafn:<br>
